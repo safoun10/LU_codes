@@ -6,9 +6,13 @@ int main()
     {
         x = x + i;
         if (x % 2 == 0)
+        {
             printf("%d ", x);
+        }
         else
+        {
             printf("# ");
+        }
     }
     return 0;
 }
