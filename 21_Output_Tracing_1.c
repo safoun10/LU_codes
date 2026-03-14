@@ -6,6 +6,7 @@ int main()
     {
         printf("%d ", i);
     }
+    
     return 0;
 }
 
@@ -27,6 +28,6 @@ i = 5 | i <= 5 (true) | i = 6
 printf -> 5
 i = 6 | i <= 5 (false) |
 
-- for loop stop
+- for loop stops
 
 */
