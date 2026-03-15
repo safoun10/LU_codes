@@ -2,7 +2,7 @@
 
 int main()
 {
-    int limit, largest = 0;
+    int limit, largest = -1000000000;
     scanf("%d", &limit);
     for (int i = 1; i <= limit; i++)
     {

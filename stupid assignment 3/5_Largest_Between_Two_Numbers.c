@@ -13,7 +13,7 @@ int main()
     {
         larger = b;
     }
-    printf("The larger number is: %d", larger);
+    printf("The larger number is %d", larger);
 
     return 0;
 }
