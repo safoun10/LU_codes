@@ -33,7 +33,7 @@ i = 4 | i <= 5 (true) | i = 5
 4 % 2 == 0 (true) -> printf -> 4
 i = 5 | i <= 5 (true) | i = 6
 5 % 2 == 0 (false) -> printf -> *
-i = 6 | i <= 5 (false) |
+i = 6 | i <= 5 (false)
 
 - for loop stops
 

@@ -25,7 +25,7 @@ i = 3 | i <= 4 (true) | i = 4 | sum = 3
 sum = 3 + 3 -> printf -> 6
 i = 4 | i <= 4 (true) | i = 5 | sum = 6
 sum = 6 + 4 -> printf -> 10
-i = 5 | i <= 4 (false) |
+i = 5 | i <= 4 (false)
 
 - for loop stops
 

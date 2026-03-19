@@ -33,7 +33,7 @@ i = 2 | i >= 1 (true) | i = 1
 2 > 3 (false) -> printf -> A
 i = 1 | i >= 1 (true) | i = 0
 1 > 3 (false) -> printf -> A
-i = 0 | i >= 1 (false) |
+i = 0 | i >= 1 (false)
 
 - for loop stops
 

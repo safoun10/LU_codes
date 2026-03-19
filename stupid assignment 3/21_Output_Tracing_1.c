@@ -26,7 +26,7 @@ i = 4 | i <= 5 (true) | i = 5
 printf -> 4
 i = 5 | i <= 5 (true) | i = 6
 printf -> 5
-i = 6 | i <= 5 (false) |
+i = 6 | i <= 5 (false)
 
 - for loop stops
 
