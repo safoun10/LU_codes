@@ -12,10 +12,11 @@ int main()
     {
         if (i % 2 == 0)
         {
+            printf("%d\n", i);
             sum += i;
         }
     }
-    printf("%d", sum);
+    printf("total sum = %d", sum);
 
     return 0;
 }
