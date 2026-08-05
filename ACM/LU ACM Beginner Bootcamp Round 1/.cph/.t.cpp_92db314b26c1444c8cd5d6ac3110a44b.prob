@@ -1,0 +1,1 @@
+{"name":"Local: t","url":"c:\\Users\\safou\\Desktop\\LU codes\\ACM\\LU ACM Beginner Bootcamp Round 1\\t.cpp","tests":[{"id":1785937619786,"input":"4\n10\n256\n255\n4096","output":"2\n1\n8\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\safou\\Desktop\\LU codes\\ACM\\LU ACM Beginner Bootcamp Round 1\\t.cpp","group":"local","local":true}
