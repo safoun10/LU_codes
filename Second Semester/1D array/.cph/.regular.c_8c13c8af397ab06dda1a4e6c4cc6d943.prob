@@ -1,0 +1,1 @@
+{"name":"Local: regular","url":"c:\\Users\\safou\\Desktop\\LU codes\\Second Semester\\1D array\\regular.c","tests":[{"id":1786162314744,"input":"5\n1 2 3 4 5","output":"1 2 3 4 5 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\safou\\Desktop\\LU codes\\Second Semester\\1D array\\regular.c","group":"local","local":true}
