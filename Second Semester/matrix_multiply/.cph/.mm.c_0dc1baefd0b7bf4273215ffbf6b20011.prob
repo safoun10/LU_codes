@@ -1,0 +1,1 @@
+{"name":"Local: mm","url":"c:\\Users\\safou\\Desktop\\LU codes\\Second Semester\\matrix_multiply\\mm.c","tests":[{"id":1787042183522,"input":"1 2\n3 4\n1 2\n3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\safou\\Desktop\\LU codes\\Second Semester\\matrix_multiply\\mm.c","group":"local","local":true}
