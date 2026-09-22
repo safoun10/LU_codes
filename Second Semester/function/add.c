@@ -11,7 +11,7 @@ float meal_rate_calc(int bazar_sum, int meal_sum)
 
 void dena_paona(int bazar, int total_meal, float meal_rate)
 {
-    printf("total_cost = %.2f ", meal_rate * total_meal);
+    printf("total_cost = %.2f => ", meal_rate * total_meal);
 
     if ((bazar - (total_meal * meal_rate)) > 0)
     {
@@ -19,7 +19,7 @@ void dena_paona(int bazar, int total_meal, float meal_rate)
     }
     else
     {
-        printf("dena %.2f\n", abs(bazar - (total_meal * meal_rate)));
+        printf("dena  %.2f\n", (-1 * (bazar - (total_meal * meal_rate))));
     }
 }
 
@@ -30,7 +30,6 @@ int main()
 
     int array_meal[limit];
     int array_bazar[limit];
-
     int meal_sum = 0, bazar_sum = 0;
 
     for (int i = 0; i < limit; i++)
