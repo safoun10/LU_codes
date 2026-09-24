@@ -1,20 +1,16 @@
 #include <stdio.h>
-#include <string.h>
-#include <math.h>
-#include <stdlib.h>
-#include <stdbool.h>
 
-int addition(int a, int b)
-{
-    return a + b;
-}
+int addition();
 
 int main()
 {
-    int a, b;
-    scanf("%d %d", &a, &b);
-    int result = addition(a, b);
+    int result = addition();
     printf("%d", result);
     return 0;
 }
- 
+
+int addition()
+{
+    int a = 5, b = 3;
+    return a + b;
+} 
