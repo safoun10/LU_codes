@@ -1,0 +1,1 @@
+{"name":"Local: basic","url":"c:\\Users\\safou\\Desktop\\LU codes\\Second Semester\\string\\basic.c","tests":[{"id":1791880634687,"input":"12\nhello world!","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\safou\\Desktop\\LU codes\\Second Semester\\string\\basic.c","group":"local","local":true}
