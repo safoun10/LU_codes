@@ -4,13 +4,9 @@ int main()
 {
     int first_number, second_number;
     scanf("%d %d", &first_number, &second_number);
-    if (first_number > second_number)
-    {
-        printf("The first number is greater than the second number.\n");
-    }
-    else
-    {
-        printf("The first number is not greater than the second number.\n");
-    }
+
+    (first_number >= second_number)
+        ? printf("The first number is greater or equal than the second number.\n")
+        : printf("The second number is greater than the first number.\n");
     return 0;
 }

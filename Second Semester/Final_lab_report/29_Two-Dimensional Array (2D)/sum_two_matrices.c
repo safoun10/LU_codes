@@ -18,6 +18,7 @@ int main()
             scanf("%d", &second_matrix[row][column]);
         }
     }
+    printf("\n");
     for (int row = 0; row < 2; row++)
     {
         for (int column = 0; column < 2; column++)

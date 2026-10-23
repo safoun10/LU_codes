@@ -10,6 +10,7 @@ int main()
             scanf("%d", &matrix[row][column]);
         }
     }
+    printf("\n");
     for (int row = 0; row < 2; row++)
     {
         for (int column = 0; column < 3; column++)

@@ -4,6 +4,6 @@ int main()
 {
     int number = 10;
     int *number_pointer = &number;
-    printf("%p\n", (void *)number_pointer);
+    printf("%p\n", number_pointer);
     return 0;
 }

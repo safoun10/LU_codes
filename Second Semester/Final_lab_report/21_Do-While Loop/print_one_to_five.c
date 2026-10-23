@@ -7,7 +7,6 @@ int main()
     {
         printf("%d\n", number);
         number++;
-    }
-    while (number <= 5);
+    } while (number <= 5);
     return 0;
 }
