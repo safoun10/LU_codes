@@ -1,0 +1,25 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define endl '\n'
+
+int main()
+{
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+
+    int hour, minute, target;
+    char colon;
+    cin >> hour >> colon >> minute >> target;
+    int end = (11 * 60) + 45;
+    int now = (hour * 60) + minute;
+    if ((end - now) >= target + 30)
+    {
+        cout << "YES" << endl;
+    }
+    else
+    {
+        cout << "NO" << endl;
+    }
+
+    return 0;
+}
